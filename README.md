@@ -1,6 +1,6 @@
 # Transformer-Level Load Forecasting — João Pessoa, Brazil
 
-Code for the paper: *"Transformer-level load forecasting in urban distribution networks: heterogeneous effects of multivariate features across gradient boosting and deep learning models"*
+Code for the paper: *"Electricity Demand Prediction at Power Transformers in Urban Distribution Systems: A Comparative Medium-Term Forecasting Study"*
 
 ## What this is
 
